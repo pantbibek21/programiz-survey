@@ -1,0 +1,8 @@
+.challengeRow {
+	border: 2px solid rgba(0, 0, 0, 0.342);
+	border-radius: 12px;
+	height: calc(100vh - 140px);
+	display: flex;
+	gap: 12px;
+	overflow-y: auto;
+}

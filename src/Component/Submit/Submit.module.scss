@@ -1,0 +1,34 @@
+.submitWrapper {
+	max-width: 400px;
+	height: auto;
+	margin: 30px auto;
+	border: 2px solid rgba(0, 0, 0, 0.301);
+	border-radius: 4px;
+	box-shadow: 0px 0px;
+	padding: 20px;
+
+	h2 {
+		color: rgba(0, 0, 0, 0.568);
+	}
+
+	form {
+		margin-top: 40px;
+
+		input[type="text"] {
+			width: 100%;
+			margin-bottom: 8px;
+			font-size: 18px;
+			padding: 4px 8px;
+		}
+
+		input[type="submit"] {
+			width: 50%;
+			display: block;
+			margin: 0 auto;
+			cursor: pointer;
+			font: 17px;
+			font-weight: bold;
+			padding: 4px 8px;
+		}
+	}
+}
