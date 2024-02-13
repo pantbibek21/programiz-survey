@@ -72,7 +72,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-10",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-5_Human Better",
 			},
 		],
@@ -117,7 +117,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-16",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-8_Human Better",
 			},
 		],
@@ -162,7 +162,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-22",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-11_Human Better",
 			},
 		],
@@ -207,7 +207,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-28",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-14_Human Better",
 			},
 		],
@@ -252,7 +252,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-34",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-17_Human Better",
 			},
 		],
@@ -297,7 +297,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-40",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-20_Human Better",
 			},
 		],
@@ -342,7 +342,7 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-46",
-				src: "./src/Challenges/fox.jpg",
+				src: challenge_1_human_written,
 				value: "challenge-23_Human Better",
 			},
 		],
