@@ -1,4 +1,5 @@
-import challengeUrl from "./assets/Challenge-1-human-written.png";
+import challenge_1_human_written from "./Challenges/Challenge-1-human-written.png";
+import challenge_2_ai_written from "./Challenges/Challenge-2-human-written.png";
 
 const CHALLENGES_URL = [
 	{
@@ -6,13 +7,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-1",
-				src: challengeUrl,
-				value: "challenge-1 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-1_Human Better",
 			},
 			{
 				id: "challenge-2",
-				src: challengeUrl,
-				value: "challenge-1 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-1_AI Better",
 			},
 		],
 	},
@@ -21,13 +22,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-3",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-2 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-2_AI Better",
 			},
 			{
 				id: "challenge-4",
-				src: "./src/Challenges/fox.jpg",
-				value: "challenge-2 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-2_Human Better",
 			},
 		],
 	},
@@ -36,13 +37,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-5",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-3 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-3_AI Better",
 			},
 			{
 				id: "challenge-6",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-3 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-3_Human Better",
 			},
 		],
 	},
@@ -51,13 +52,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-7",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-4 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-4_Human Better",
 			},
 			{
 				id: "challenge-8",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-4 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-4_AI Better",
 			},
 		],
 	},
@@ -66,13 +67,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-9",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-5 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-5_AI Better",
 			},
 			{
 				id: "challenge-10",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-5 humanWritten",
+				value: "challenge-5_Human Better",
 			},
 		],
 	},
@@ -81,13 +82,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-11",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-6 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-6_AI Better",
 			},
 			{
 				id: "challenge-12",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-3 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-6_Human Better",
 			},
 		],
 	},
@@ -96,13 +97,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-13",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-7 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-7_Human Better",
 			},
 			{
 				id: "challenge-14",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-7 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-7_AI Better",
 			},
 		],
 	},
@@ -111,13 +112,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-15",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-8 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-8_AI Better",
 			},
 			{
 				id: "challenge-16",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-8 humanWritten",
+				value: "challenge-8_Human Better",
 			},
 		],
 	},
@@ -126,13 +127,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-17",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-9 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-9_AI Better",
 			},
 			{
 				id: "challenge-18",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-9 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-9_Human Better",
 			},
 		],
 	},
@@ -141,13 +142,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-19",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-10 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-10_Human Better",
 			},
 			{
 				id: "challenge-20",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-10 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-10_AI Better",
 			},
 		],
 	},
@@ -156,13 +157,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-21",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-11 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-11_AI Better",
 			},
 			{
 				id: "challenge-22",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-11 humanWritten",
+				value: "challenge-11_Human Better",
 			},
 		],
 	},
@@ -171,13 +172,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-23",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-12 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-12_AI Better",
 			},
 			{
 				id: "challenge-24",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-12 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-12_Human Better",
 			},
 		],
 	},
@@ -186,13 +187,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-25",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-13 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-13_Human Better",
 			},
 			{
 				id: "challenge-26",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-13 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-13_AI Better",
 			},
 		],
 	},
@@ -201,13 +202,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-27",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-14 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-14_AI Better",
 			},
 			{
 				id: "challenge-28",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-14 humanWritten",
+				value: "challenge-14_Human Better",
 			},
 		],
 	},
@@ -216,13 +217,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-29",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-15 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-15_AI Better",
 			},
 			{
 				id: "challenge-30",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-15 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-15_Human Better",
 			},
 		],
 	},
@@ -231,13 +232,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-31",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-16 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-16_Human Better",
 			},
 			{
 				id: "challenge-32",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-16 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-16_AI Better",
 			},
 		],
 	},
@@ -246,13 +247,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-33",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-17 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-17_AI Better",
 			},
 			{
 				id: "challenge-34",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-17 humanWritten",
+				value: "challenge-17_Human Better",
 			},
 		],
 	},
@@ -261,13 +262,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-35",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-18 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-18_AI Better",
 			},
 			{
 				id: "challenge-36",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-18 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-18_Human Better",
 			},
 		],
 	},
@@ -276,13 +277,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-37",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-19 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-19_Human Better",
 			},
 			{
 				id: "challenge-38",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-19 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-19_AI Better",
 			},
 		],
 	},
@@ -291,13 +292,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-39",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-20 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-20_AI Better",
 			},
 			{
 				id: "challenge-40",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-20 humanWritten",
+				value: "challenge-20_Human Better",
 			},
 		],
 	},
@@ -306,13 +307,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-41",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-21 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-21_AI Better",
 			},
 			{
 				id: "challenge-42",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-21 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-21_Human Better",
 			},
 		],
 	},
@@ -321,13 +322,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-43",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-22 humanWritten",
+				src: challenge_1_human_written,
+				value: "challenge-22_Human Better",
 			},
 			{
 				id: "challenge-44",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-22 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-22_AI Better",
 			},
 		],
 	},
@@ -336,13 +337,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-45",
-				src: "./src/Challenges/squirrel.jpg",
-				value: "challenge-23 aiWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-23_AI Better",
 			},
 			{
 				id: "challenge-46",
 				src: "./src/Challenges/fox.jpg",
-				value: "challenge-23 humanWritten",
+				value: "challenge-23_Human Better",
 			},
 		],
 	},
@@ -351,13 +352,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-47",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-24 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-24_AI Better",
 			},
 			{
 				id: "challenge-48",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-24 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-24_Human Better",
 			},
 		],
 	},
@@ -366,13 +367,13 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-49",
-				src: "./src/Challenges/Challenge-1-human-written.png",
-				value: "challenge-25 aiWritten",
+				src: challenge_1_human_written,
+				value: "challenge-25_AI Better",
 			},
 			{
 				id: "challenge-50",
-				src: "./src/Challenges/Challenge-2-human-written.png",
-				value: "challenge-25 humanWritten",
+				src: challenge_2_ai_written,
+				value: "challenge-25_Human Better",
 			},
 		],
 	},

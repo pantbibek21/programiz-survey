@@ -43,9 +43,9 @@ function App() {
 		console.log("Congratulations, your data submitted!!");
 		console.log("You submitted: " + challengeValues);
 		// alert(`${name}, your data submitted succesfully😁!!!`);
-		setTimeout(() => {
-			window.location.reload();
-		}, 5000);
+		// setTimeout(() => {
+		// 	window.location.reload();
+		// }, 5000);
 	};
 
 	function sendDataToSheet(name) {
