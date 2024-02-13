@@ -1,15 +1,17 @@
+import challengeUrl from "./assets/Challenge-1-human-written.png";
+
 const CHALLENGES_URL = [
 	{
 		challengeRow: 1,
 		challenge: [
 			{
 				id: "challenge-1",
-				src: "./src/assets/Challenge-1-human-written.png",
+				src: challengeUrl,
 				value: "challenge-1 humanWritten",
 			},
 			{
 				id: "challenge-2",
-				src: "./src/assets/Challenge-2-human-written.png",
+				src: challengeUrl,
 				value: "challenge-1 aiWritten",
 			},
 		],
