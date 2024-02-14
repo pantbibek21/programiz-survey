@@ -10,7 +10,13 @@ const Header = () => {
 				challenge that sounds good to you and click next. You will have
 				to select 25 challenge in total. In case of any confusion,
 				please reach out to <b>Bibek</b> or <b>Manwi</b>. --
-				<i>Use your monitor for better visualization.</i>
+				<i>
+					Use of{" "}
+					<span style={{ backgroundColor: "greenyellow" }}>
+						monitor
+					</span>{" "}
+					is strongly recommended.
+				</i>
 			</p>
 		</header>
 	);
