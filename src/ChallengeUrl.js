@@ -24,6 +24,26 @@ import challenge_22_human_written from "./Challenges/Challenge-22-human-written.
 import challenge_23_human_written from "./Challenges/Challenge-23-human-written.png";
 import challenge_24_human_written from "./Challenges/Challenge-24-human-written.png";
 import challenge_25_human_written from "./Challenges/Challenge-25-human-written.png";
+import challenge_26_human_written from "./Challenges/Challenge-26-human-written.png";
+import challenge_27_human_written from "./Challenges/Challenge-27-human-written.png";
+import challenge_28_human_written from "./Challenges/Challenge-28-human-written.png";
+import challenge_29_human_written from "./Challenges/Challenge-29-human-written.png";
+import challenge_30_human_written from "./Challenges/Challenge-30-human-written.png";
+import challenge_31_human_written from "./Challenges/Challenge-31-human-written.png";
+import challenge_32_human_written from "./Challenges/Challenge-32-human-written.png";
+import challenge_33_human_written from "./Challenges/Challenge-33-human-written.png";
+import challenge_34_human_written from "./Challenges/Challenge-34-human-written.png";
+import challenge_35_human_written from "./Challenges/Challenge-35-human-written.png";
+import challenge_36_human_written from "./Challenges/Challenge-36-human-written.png";
+import challenge_37_human_written from "./Challenges/Challenge-37-human-written.png";
+import challenge_38_human_written from "./Challenges/Challenge-38-human-written.png";
+import challenge_39_human_written from "./Challenges/Challenge-39-human-written.png";
+import challenge_40_human_written from "./Challenges/Challenge-40-human-written.png";
+import challenge_41_human_written from "./Challenges/Challenge-41-human-written.png";
+import challenge_42_human_written from "./Challenges/Challenge-42-human-written.png";
+import challenge_43_human_written from "./Challenges/Challenge-43-human-written.png";
+import challenge_44_human_written from "./Challenges/Challenge-44-human-written.png";
+import challenge_45_human_written from "./Challenges/Challenge-45-human-written.png";
 
 //AI Generated Challenges
 import challenge_1_ai_written from "./Challenges/Challenge-1-ai-written.png";
@@ -51,6 +71,26 @@ import challenge_22_ai_written from "./Challenges/Challenge-22-ai-written.png";
 import challenge_23_ai_written from "./Challenges/Challenge-23-ai-written.png";
 import challenge_24_ai_written from "./Challenges/Challenge-24-ai-written.png";
 import challenge_25_ai_written from "./Challenges/Challenge-25-ai-written.png";
+import challenge_26_ai_written from "./Challenges/Challenge-26-ai-written.png";
+import challenge_27_ai_written from "./Challenges/Challenge-27-ai-written.png";
+import challenge_28_ai_written from "./Challenges/Challenge-28-ai-written.png";
+import challenge_29_ai_written from "./Challenges/Challenge-29-ai-written.png";
+import challenge_30_ai_written from "./Challenges/Challenge-30-ai-written.png";
+import challenge_31_ai_written from "./Challenges/Challenge-31-ai-written.png";
+import challenge_32_ai_written from "./Challenges/Challenge-32-ai-written.png";
+import challenge_33_ai_written from "./Challenges/Challenge-33-ai-written.png";
+import challenge_34_ai_written from "./Challenges/Challenge-34-ai-written.png";
+import challenge_35_ai_written from "./Challenges/Challenge-35-ai-written.png";
+import challenge_36_ai_written from "./Challenges/Challenge-36-ai-written.png";
+import challenge_37_ai_written from "./Challenges/Challenge-37-ai-written.png";
+import challenge_38_ai_written from "./Challenges/Challenge-38-ai-written.png";
+import challenge_39_ai_written from "./Challenges/Challenge-39-ai-written.png";
+import challenge_40_ai_written from "./Challenges/Challenge-40-ai-written.png";
+import challenge_41_ai_written from "./Challenges/Challenge-41-ai-written.png";
+import challenge_42_ai_written from "./Challenges/Challenge-42-ai-written.png";
+import challenge_43_ai_written from "./Challenges/Challenge-43-ai-written.png";
+import challenge_44_ai_written from "./Challenges/Challenge-44-ai-written.png";
+import challenge_45_ai_written from "./Challenges/Challenge-45-ai-written.png";
 
 const CHALLENGES_URL = [
 	{
@@ -425,6 +465,308 @@ const CHALLENGES_URL = [
 				id: "challenge-50",
 				src: challenge_25_ai_written,
 				value: "challenge-25_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 26,
+		challenge: [
+			{
+				id: "challenge-51",
+				src: challenge_26_ai_written,
+				value: "challenge-26_AI Better",
+			},
+			{
+				id: "challenge-52",
+				src: challenge_26_human_written,
+				value: "challenge-26_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 27,
+		challenge: [
+			{
+				id: "challenge-53",
+				src: challenge_27_human_written,
+				value: "challenge-27_Human Better",
+			},
+			{
+				id: "challenge-54",
+				src: challenge_27_ai_written,
+				value: "challenge-27_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 28,
+		challenge: [
+			{
+				id: "challenge-55",
+				src: challenge_28_human_written,
+				value: "challenge-28_Human Better",
+			},
+			{
+				id: "challenge-56",
+				src: challenge_28_ai_written,
+				value: "challenge-28_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 29,
+		challenge: [
+			{
+				id: "challenge-57",
+				src: challenge_29_human_written,
+				value: "challenge-29_Human Better",
+			},
+			{
+				id: "challenge-58",
+				src: challenge_29_ai_written,
+				value: "challenge-29_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 30,
+		challenge: [
+			{
+				id: "challenge-59",
+				src: challenge_30_ai_written,
+				value: "challenge-30_AI Better",
+			},
+			{
+				id: "challenge-60",
+				src: challenge_30_human_written,
+				value: "challenge-30_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 31,
+		challenge: [
+			{
+				id: "challenge-61",
+				src: challenge_31_human_written,
+				value: "challenge-31_Human Better",
+			},
+			{
+				id: "challenge-62",
+				src: challenge_31_ai_written,
+				value: "challenge-31_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 32,
+		challenge: [
+			{
+				id: "challenge-63",
+				src: challenge_32_ai_written,
+				value: "challenge-32_AI Better",
+			},
+			{
+				id: "challenge-64",
+				src: challenge_32_human_written,
+				value: "challenge-32_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 33,
+		challenge: [
+			{
+				id: "challenge-65",
+				src: challenge_33_human_written,
+				value: "challenge-33_Human Better",
+			},
+			{
+				id: "challenge-66",
+				src: challenge_33_ai_written,
+				value: "challenge-33_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 34,
+		challenge: [
+			{
+				id: "challenge-67",
+				src: challenge_34_ai_written,
+				value: "challenge-34_AI Better",
+			},
+			{
+				id: "challenge-68",
+				src: challenge_34_human_written,
+				value: "challenge-34_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 35,
+		challenge: [
+			{
+				id: "challenge-69",
+				src: challenge_35_human_written,
+				value: "challenge-35_Human Better",
+			},
+			{
+				id: "challenge-70",
+				src: challenge_35_ai_written,
+				value: "challenge-35_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 36,
+		challenge: [
+			{
+				id: "challenge-71",
+				src: challenge_36_human_written,
+				value: "challenge-36_Human Better",
+			},
+			{
+				id: "challenge-72",
+				src: challenge_36_ai_written,
+				value: "challenge-36_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 37,
+		challenge: [
+			{
+				id: "challenge-73",
+				src: challenge_37_ai_written,
+				value: "challenge-37_AI Better",
+			},
+			{
+				id: "challenge-74",
+				src: challenge_37_human_written,
+				value: "challenge-37_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 38,
+		challenge: [
+			{
+				id: "challenge-75",
+				src: challenge_38_ai_written,
+				value: "challenge-38_AI Better",
+			},
+			{
+				id: "challenge-76",
+				src: challenge_38_human_written,
+				value: "challenge-38_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 39,
+		challenge: [
+			{
+				id: "challenge-77",
+				src: challenge_39_ai_written,
+				value: "challenge-39_AI Better",
+			},
+			{
+				id: "challenge-78",
+				src: challenge_39_human_written,
+				value: "challenge-39_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 40,
+		challenge: [
+			{
+				id: "challenge-79",
+				src: challenge_40_human_written,
+				value: "challenge-40_Human Better",
+			},
+			{
+				id: "challenge-80",
+				src: challenge_40_ai_written,
+				value: "challenge-40_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 41,
+		challenge: [
+			{
+				id: "challenge-81",
+				src: challenge_41_ai_written,
+				value: "challenge-41_AI Better",
+			},
+			{
+				id: "challenge-82",
+				src: challenge_41_human_written,
+				value: "challenge-41_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 42,
+		challenge: [
+			{
+				id: "challenge-83",
+
+				src: challenge_42_ai_written,
+				value: "challenge-42_AI Better",
+			},
+			{
+				id: "challenge-84",
+				src: challenge_42_human_written,
+				value: "challenge-42_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 43,
+		challenge: [
+			{
+				id: "challenge-85",
+				src: challenge_43_human_written,
+				value: "challenge-43_Human Better",
+			},
+			{
+				id: "challenge-86",
+				src: challenge_43_ai_written,
+				value: "challenge-43_AI Better",
+			},
+		],
+	},
+	{
+		challengeRow: 44,
+		challenge: [
+			{
+				id: "challenge-87",
+
+				src: challenge_44_ai_written,
+				value: "challenge-44_AI Better",
+			},
+			{
+				id: "challenge-88",
+				src: challenge_44_human_written,
+				value: "challenge-44_Human Better",
+			},
+		],
+	},
+	{
+		challengeRow: 45,
+		challenge: [
+			{
+				id: "challenge-89",
+				src: challenge_45_human_written,
+				value: "challenge-45_Human Better",
+			},
+			{
+				id: "challenge-90",
+				src: challenge_45_ai_written,
+				value: "challenge-45_AI Better",
 			},
 		],
 	},
