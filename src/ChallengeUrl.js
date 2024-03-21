@@ -1,51 +1,43 @@
-//Human Written Challenges
-import challenge_1_human_written from "./Challenges/Challenge-1-human-written.png";
-import challenge_2_human_written from "./Challenges/Challenge-2-human-written.png";
-import challenge_3_human_written from "./Challenges/Challenge-3-human-written.png";
-import challenge_4_human_written from "./Challenges/Challenge-4-human-written.png";
-import challenge_5_human_written from "./Challenges/Challenge-5-human-written.png";
-import challenge_6_human_written from "./Challenges/Challenge-6-human-written.png";
-import challenge_7_human_written from "./Challenges/Challenge-7-human-written.png";
-import challenge_8_human_written from "./Challenges/Challenge-8-human-written.png";
-import challenge_9_human_written from "./Challenges/Challenge-9-human-written.png";
-import challenge_10_human_written from "./Challenges/Challenge-10-human-written.png";
-import challenge_11_human_written from "./Challenges/Challenge-11-human-written.png";
-import challenge_12_human_written from "./Challenges/Challenge-12-human-written.png";
-import challenge_13_human_written from "./Challenges/Challenge-13-human-written.png";
-import challenge_14_human_written from "./Challenges/Challenge-14-human-written.png";
-import challenge_15_human_written from "./Challenges/Challenge-15-human-written.png";
-import challenge_16_human_written from "./Challenges/Challenge-16-human-written.png";
-import challenge_17_human_written from "./Challenges/Challenge-17-human-written.png";
-import challenge_18_human_written from "./Challenges/Challenge-18-human-written.png";
-import challenge_19_human_written from "./Challenges/Challenge-19-human-written.png";
-import challenge_20_human_written from "./Challenges/Challenge-20-human-written.png";
-import challenge_21_human_written from "./Challenges/Challenge-21-human-written.png";
-import challenge_22_human_written from "./Challenges/Challenge-22-human-written.png";
-import challenge_23_human_written from "./Challenges/Challenge-23-human-written.png";
-import challenge_24_human_written from "./Challenges/Challenge-24-human-written.png";
-import challenge_25_human_written from "./Challenges/Challenge-25-human-written.png";
-import challenge_26_human_written from "./Challenges/Challenge-26-human-written.png";
-import challenge_27_human_written from "./Challenges/Challenge-27-human-written.png";
-import challenge_28_human_written from "./Challenges/Challenge-28-human-written.png";
-import challenge_29_human_written from "./Challenges/Challenge-29-human-written.png";
-import challenge_30_human_written from "./Challenges/Challenge-30-human-written.png";
-import challenge_31_human_written from "./Challenges/Challenge-31-human-written.png";
-import challenge_32_human_written from "./Challenges/Challenge-32-human-written.png";
-import challenge_33_human_written from "./Challenges/Challenge-33-human-written.png";
-import challenge_34_human_written from "./Challenges/Challenge-34-human-written.png";
-import challenge_35_human_written from "./Challenges/Challenge-35-human-written.png";
-import challenge_36_human_written from "./Challenges/Challenge-36-human-written.png";
-import challenge_37_human_written from "./Challenges/Challenge-37-human-written.png";
-import challenge_38_human_written from "./Challenges/Challenge-38-human-written.png";
-import challenge_39_human_written from "./Challenges/Challenge-39-human-written.png";
-import challenge_40_human_written from "./Challenges/Challenge-40-human-written.png";
-import challenge_41_human_written from "./Challenges/Challenge-41-human-written.png";
-import challenge_42_human_written from "./Challenges/Challenge-42-human-written.png";
-import challenge_43_human_written from "./Challenges/Challenge-43-human-written.png";
-import challenge_44_human_written from "./Challenges/Challenge-44-human-written.png";
-import challenge_45_human_written from "./Challenges/Challenge-45-human-written.png";
+// Edabit Written Challenges
+
+// python challenges
+
+import challenge_1_edabit_written from "./Challenges/Challenge-1-edabit-written.png";
+import challenge_2_edabit_written from "./Challenges/Challenge-2-edabit-written.png";
+import challenge_3_edabit_written from "./Challenges/Challenge-3-edabit-written.png";
+import challenge_4_edabit_written from "./Challenges/Challenge-4-edabit-written.png";
+import challenge_5_edabit_written from "./Challenges/Challenge-5-edabit-written.png";
+import challenge_6_edabit_written from "./Challenges/Challenge-6-edabit-written.png";
+import challenge_7_edabit_written from "./Challenges/Challenge-7-edabit-written.png";
+import challenge_8_edabit_written from "./Challenges/Challenge-8-edabit-written.png";
+import challenge_9_edabit_written from "./Challenges/Challenge-9-edabit-written.png";
+import challenge_10_edabit_written from "./Challenges/Challenge-10-edabit-written.png";
+import challenge_11_edabit_written from "./Challenges/Challenge-11-edabit-written.png";
+import challenge_12_edabit_written from "./Challenges/Challenge-12-edabit-written.png";
+import challenge_13_edabit_written from "./Challenges/Challenge-13-edabit-written.png";
+import challenge_14_edabit_written from "./Challenges/Challenge-14-edabit-written.png";
+
+// cpp challenges
+
+import challenge_15_edabit_written from "./Challenges/Challenge-15-edabit-written.png";
+import challenge_16_edabit_written from "./Challenges/Challenge-16-edabit-written.png";
+import challenge_17_edabit_written from "./Challenges/Challenge-17-edabit-written.png";
+import challenge_18_edabit_written from "./Challenges/Challenge-18-edabit-written.png";
+import challenge_19_edabit_written from "./Challenges/Challenge-19-edabit-written.png";
+import challenge_20_edabit_written from "./Challenges/Challenge-20-edabit-written.png";
+import challenge_21_edabit_written from "./Challenges/Challenge-21-edabit-written.png";
+import challenge_22_edabit_written from "./Challenges/Challenge-22-edabit-written.png";
+import challenge_23_edabit_written from "./Challenges/Challenge-23-edabit-written.png";
+import challenge_24_edabit_written from "./Challenges/Challenge-24-edabit-written.png";
+import challenge_25_edabit_written from "./Challenges/Challenge-25-edabit-written.png";
+import challenge_26_edabit_written from "./Challenges/Challenge-26-edabit-written.png";
+import challenge_27_edabit_written from "./Challenges/Challenge-27-edabit-written.png";
+import challenge_28_edabit_written from "./Challenges/Challenge-28-edabit-written.png";
+import challenge_29_edabit_written from "./Challenges/Challenge-29-edabit-written.png";
+import challenge_30_edabit_written from "./Challenges/Challenge-30-edabit-written.png";
 
 //AI Generated Challenges
+// python challenges
 import challenge_1_ai_written from "./Challenges/Challenge-1-ai-written.png";
 import challenge_2_ai_written from "./Challenges/Challenge-2-ai-written.png";
 import challenge_3_ai_written from "./Challenges/Challenge-3-ai-written.png";
@@ -61,6 +53,9 @@ import challenge_12_ai_written from "./Challenges/Challenge-12-ai-written.png";
 import challenge_13_ai_written from "./Challenges/Challenge-13-ai-written.png";
 import challenge_14_ai_written from "./Challenges/Challenge-14-ai-written.png";
 import challenge_15_ai_written from "./Challenges/Challenge-15-ai-written.png";
+
+// cpp challenges
+
 import challenge_16_ai_written from "./Challenges/Challenge-16-ai-written.png";
 import challenge_17_ai_written from "./Challenges/Challenge-17-ai-written.png";
 import challenge_18_ai_written from "./Challenges/Challenge-18-ai-written.png";
@@ -76,21 +71,7 @@ import challenge_27_ai_written from "./Challenges/Challenge-27-ai-written.png";
 import challenge_28_ai_written from "./Challenges/Challenge-28-ai-written.png";
 import challenge_29_ai_written from "./Challenges/Challenge-29-ai-written.png";
 import challenge_30_ai_written from "./Challenges/Challenge-30-ai-written.png";
-import challenge_31_ai_written from "./Challenges/Challenge-31-ai-written.png";
-import challenge_32_ai_written from "./Challenges/Challenge-32-ai-written.png";
-import challenge_33_ai_written from "./Challenges/Challenge-33-ai-written.png";
-import challenge_34_ai_written from "./Challenges/Challenge-34-ai-written.png";
-import challenge_35_ai_written from "./Challenges/Challenge-35-ai-written.png";
-import challenge_36_ai_written from "./Challenges/Challenge-36-ai-written.png";
-import challenge_37_ai_written from "./Challenges/Challenge-37-ai-written.png";
-import challenge_38_ai_written from "./Challenges/Challenge-38-ai-written.png";
-import challenge_39_ai_written from "./Challenges/Challenge-39-ai-written.png";
-import challenge_40_ai_written from "./Challenges/Challenge-40-ai-written.png";
-import challenge_41_ai_written from "./Challenges/Challenge-41-ai-written.png";
-import challenge_42_ai_written from "./Challenges/Challenge-42-ai-written.png";
-import challenge_43_ai_written from "./Challenges/Challenge-43-ai-written.png";
-import challenge_44_ai_written from "./Challenges/Challenge-44-ai-written.png";
-import challenge_45_ai_written from "./Challenges/Challenge-45-ai-written.png";
+
 
 const CHALLENGES_URL = [
 	{
@@ -98,8 +79,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-1",
-				src: challenge_1_human_written,
-				value: "challenge-1_Human Better",
+				src: challenge_1_edabit_written,
+				value: "challenge-1_Edabit Better",
 			},
 			{
 				id: "challenge-2",
@@ -118,8 +99,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-4",
-				src: challenge_2_human_written,
-				value: "challenge-2_Human Better",
+				src: challenge_2_edabit_written,
+				value: "challenge-2_Edabit Better",
 			},
 		],
 	},
@@ -128,8 +109,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-5",
-				src: challenge_3_human_written,
-				value: "challenge-3_Human Better",
+				src: challenge_3_edabit_written,
+				value: "challenge-3_Edabit Better",
 			},
 			{
 				id: "challenge-6",
@@ -143,8 +124,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-7",
-				src: challenge_4_human_written,
-				value: "challenge-4_Human Better",
+				src: challenge_4_edabit_written,
+				value: "challenge-4_Edabit Better",
 			},
 			{
 				id: "challenge-8",
@@ -163,8 +144,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-10",
-				src: challenge_5_human_written,
-				value: "challenge-5_Human Better",
+				src: challenge_5_edabit_written,
+				value: "challenge-5_Edabit Better",
 			},
 		],
 	},
@@ -173,8 +154,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-11",
-				src: challenge_6_human_written,
-				value: "challenge-6_Human Better",
+				src: challenge_6_edabit_written,
+				value: "challenge-6_Edabit Better",
 			},
 			{
 				id: "challenge-12",
@@ -188,8 +169,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-13",
-				src: challenge_7_human_written,
-				value: "challenge-7_Human Better",
+				src: challenge_7_edabit_written,
+				value: "challenge-7_Edabit Better",
 			},
 			{
 				id: "challenge-14",
@@ -208,8 +189,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-16",
-				src: challenge_8_human_written,
-				value: "challenge-8_Human Better",
+				src: challenge_8_edabit_written,
+				value: "challenge-8_Edabit Better",
 			},
 		],
 	},
@@ -218,8 +199,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-17",
-				src: challenge_9_human_written,
-				value: "challenge-9_Human Better",
+				src: challenge_9_edabit_written,
+				value: "challenge-9_Edabit Better",
 			},
 			{
 				id: "challenge-18",
@@ -233,8 +214,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-19",
-				src: challenge_10_human_written,
-				value: "challenge-10_Human Better",
+				src: challenge_10_edabit_written,
+				value: "challenge-10_Edabit Better",
 			},
 			{
 				id: "challenge-20",
@@ -253,8 +234,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-22",
-				src: challenge_11_human_written,
-				value: "challenge-11_Human Better",
+				src: challenge_11_edabit_written,
+				value: "challenge-11_Edabit Better",
 			},
 		],
 	},
@@ -263,8 +244,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-23",
-				src: challenge_12_human_written,
-				value: "challenge-12_Human Better",
+				src: challenge_12_edabit_written,
+				value: "challenge-12_Edabit Better",
 			},
 			{
 				id: "challenge-24",
@@ -278,8 +259,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-25",
-				src: challenge_13_human_written,
-				value: "challenge-13_Human Better",
+				src: challenge_13_edabit_written,
+				value: "challenge-13_Edabit Better",
 			},
 			{
 				id: "challenge-26",
@@ -298,8 +279,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-28",
-				src: challenge_14_human_written,
-				value: "challenge-14_Human Better",
+				src: challenge_14_edabit_written,
+				value: "challenge-14_Edabit Better",
 			},
 		],
 	},
@@ -308,8 +289,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-29",
-				src: challenge_15_human_written,
-				value: "challenge-15_Human Better",
+				src: challenge_15_edabit_written,
+				value: "challenge-15_Edabit Better",
 			},
 			{
 				id: "challenge-30",
@@ -323,8 +304,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-31",
-				src: challenge_16_human_written,
-				value: "challenge-16_Human Better",
+				src: challenge_16_edabit_written,
+				value: "challenge-16_Edabit Better",
 			},
 			{
 				id: "challenge-32",
@@ -343,8 +324,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-34",
-				src: challenge_17_human_written,
-				value: "challenge-17_Human Better",
+				src: challenge_17_edabit_written,
+				value: "challenge-17_Edabit Better",
 			},
 		],
 	},
@@ -353,8 +334,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-35",
-				src: challenge_18_human_written,
-				value: "challenge-18_Human Better",
+				src: challenge_18_edabit_written,
+				value: "challenge-18_Edabit Better",
 			},
 			{
 				id: "challenge-36",
@@ -368,8 +349,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-37",
-				src: challenge_19_human_written,
-				value: "challenge-19_Human Better",
+				src: challenge_19_edabit_written,
+				value: "challenge-19_Edabit Better",
 			},
 			{
 				id: "challenge-38",
@@ -388,8 +369,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-40",
-				src: challenge_20_human_written,
-				value: "challenge-20_Human Better",
+				src: challenge_20_edabit_written,
+				value: "challenge-20_Edabit Better",
 			},
 		],
 	},
@@ -398,8 +379,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-41",
-				src: challenge_21_human_written,
-				value: "challenge-21_Human Better",
+				src: challenge_21_edabit_written,
+				value: "challenge-21_Edabit Better",
 			},
 			{
 				id: "challenge-42",
@@ -413,8 +394,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-43",
-				src: challenge_22_human_written,
-				value: "challenge-22_Human Better",
+				src: challenge_22_edabit_written,
+				value: "challenge-22_Edabit Better",
 			},
 			{
 				id: "challenge-44",
@@ -433,8 +414,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-46",
-				src: challenge_23_human_written,
-				value: "challenge-23_Human Better",
+				src: challenge_23_edabit_written,
+				value: "challenge-23_Edabit Better",
 			},
 		],
 	},
@@ -443,8 +424,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-47",
-				src: challenge_24_human_written,
-				value: "challenge-24_Human Better",
+				src: challenge_24_edabit_written,
+				value: "challenge-24_Edabit Better",
 			},
 			{
 				id: "challenge-48",
@@ -458,8 +439,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-49",
-				src: challenge_25_human_written,
-				value: "challenge-25_Human Better",
+				src: challenge_25_edabit_written,
+				value: "challenge-25_Edabit Better",
 			},
 			{
 				id: "challenge-50",
@@ -478,8 +459,8 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-52",
-				src: challenge_26_human_written,
-				value: "challenge-26_Human Better",
+				src: challenge_26_edabit_written,
+				value: "challenge-26_Edabit Better",
 			},
 		],
 	},
@@ -488,8 +469,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-53",
-				src: challenge_27_human_written,
-				value: "challenge-27_Human Better",
+				src: challenge_27_edabit_written,
+				value: "challenge-27_Edabit Better",
 			},
 			{
 				id: "challenge-54",
@@ -503,8 +484,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-55",
-				src: challenge_28_human_written,
-				value: "challenge-28_Human Better",
+				src: challenge_28_edabit_written,
+				value: "challenge-28_Edabit Better",
 			},
 			{
 				id: "challenge-56",
@@ -518,8 +499,8 @@ const CHALLENGES_URL = [
 		challenge: [
 			{
 				id: "challenge-57",
-				src: challenge_29_human_written,
-				value: "challenge-29_Human Better",
+				src: challenge_29_edabit_written,
+				value: "challenge-29_Edabit Better",
 			},
 			{
 				id: "challenge-58",
@@ -538,238 +519,11 @@ const CHALLENGES_URL = [
 			},
 			{
 				id: "challenge-60",
-				src: challenge_30_human_written,
-				value: "challenge-30_Human Better",
+				src: challenge_30_edabit_written,
+				value: "challenge-30_Edabit Better",
 			},
 		],
-	},
-	{
-		challengeRow: 31,
-		challenge: [
-			{
-				id: "challenge-61",
-				src: challenge_31_human_written,
-				value: "challenge-31_Human Better",
-			},
-			{
-				id: "challenge-62",
-				src: challenge_31_ai_written,
-				value: "challenge-31_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 32,
-		challenge: [
-			{
-				id: "challenge-63",
-				src: challenge_32_ai_written,
-				value: "challenge-32_AI Better",
-			},
-			{
-				id: "challenge-64",
-				src: challenge_32_human_written,
-				value: "challenge-32_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 33,
-		challenge: [
-			{
-				id: "challenge-65",
-				src: challenge_33_human_written,
-				value: "challenge-33_Human Better",
-			},
-			{
-				id: "challenge-66",
-				src: challenge_33_ai_written,
-				value: "challenge-33_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 34,
-		challenge: [
-			{
-				id: "challenge-67",
-				src: challenge_34_ai_written,
-				value: "challenge-34_AI Better",
-			},
-			{
-				id: "challenge-68",
-				src: challenge_34_human_written,
-				value: "challenge-34_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 35,
-		challenge: [
-			{
-				id: "challenge-69",
-				src: challenge_35_human_written,
-				value: "challenge-35_Human Better",
-			},
-			{
-				id: "challenge-70",
-				src: challenge_35_ai_written,
-				value: "challenge-35_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 36,
-		challenge: [
-			{
-				id: "challenge-71",
-				src: challenge_36_human_written,
-				value: "challenge-36_Human Better",
-			},
-			{
-				id: "challenge-72",
-				src: challenge_36_ai_written,
-				value: "challenge-36_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 37,
-		challenge: [
-			{
-				id: "challenge-73",
-				src: challenge_37_ai_written,
-				value: "challenge-37_AI Better",
-			},
-			{
-				id: "challenge-74",
-				src: challenge_37_human_written,
-				value: "challenge-37_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 38,
-		challenge: [
-			{
-				id: "challenge-75",
-				src: challenge_38_ai_written,
-				value: "challenge-38_AI Better",
-			},
-			{
-				id: "challenge-76",
-				src: challenge_38_human_written,
-				value: "challenge-38_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 39,
-		challenge: [
-			{
-				id: "challenge-77",
-				src: challenge_39_ai_written,
-				value: "challenge-39_AI Better",
-			},
-			{
-				id: "challenge-78",
-				src: challenge_39_human_written,
-				value: "challenge-39_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 40,
-		challenge: [
-			{
-				id: "challenge-79",
-				src: challenge_40_human_written,
-				value: "challenge-40_Human Better",
-			},
-			{
-				id: "challenge-80",
-				src: challenge_40_ai_written,
-				value: "challenge-40_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 41,
-		challenge: [
-			{
-				id: "challenge-81",
-				src: challenge_41_ai_written,
-				value: "challenge-41_AI Better",
-			},
-			{
-				id: "challenge-82",
-				src: challenge_41_human_written,
-				value: "challenge-41_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 42,
-		challenge: [
-			{
-				id: "challenge-83",
-
-				src: challenge_42_ai_written,
-				value: "challenge-42_AI Better",
-			},
-			{
-				id: "challenge-84",
-				src: challenge_42_human_written,
-				value: "challenge-42_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 43,
-		challenge: [
-			{
-				id: "challenge-85",
-				src: challenge_43_human_written,
-				value: "challenge-43_Human Better",
-			},
-			{
-				id: "challenge-86",
-				src: challenge_43_ai_written,
-				value: "challenge-43_AI Better",
-			},
-		],
-	},
-	{
-		challengeRow: 44,
-		challenge: [
-			{
-				id: "challenge-87",
-
-				src: challenge_44_ai_written,
-				value: "challenge-44_AI Better",
-			},
-			{
-				id: "challenge-88",
-				src: challenge_44_human_written,
-				value: "challenge-44_Human Better",
-			},
-		],
-	},
-	{
-		challengeRow: 45,
-		challenge: [
-			{
-				id: "challenge-89",
-				src: challenge_45_human_written,
-				value: "challenge-45_Human Better",
-			},
-			{
-				id: "challenge-90",
-				src: challenge_45_ai_written,
-				value: "challenge-45_AI Better",
-			},
-		],
-	},
+	}
 ];
 
 export default CHALLENGES_URL;

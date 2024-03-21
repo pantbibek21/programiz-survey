@@ -71,7 +71,7 @@ function App() {
 			}
 		});
 
-		aiPreference = ((count / 45) * 100).toFixed(2);
+		aiPreference = ((count / 30) * 100).toFixed(2);
 		console.log(count);
 
 		let data = {
@@ -108,7 +108,7 @@ function App() {
 	return (
 		<>
 			<Header />
-			{index <= 44 && (
+			{index <= 29 && (
 				<ChallengeRow>
 					{challenges[index].challenge.map((challenge) => (
 						<Challenge
@@ -123,9 +123,9 @@ function App() {
 				</ChallengeRow>
 			)}
 
-			{index <= 44 && <Button text="Next" handleNext={handleNext} />}
+			{index <= 29 && <Button text="Next" handleNext={handleNext} />}
 
-			{index == 45 && <Submit submitHandler={submitHandler} />}
+			{index == 30 && <Submit submitHandler={submitHandler} />}
 
 			{isLoading && (
 				<img
